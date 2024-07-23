@@ -32,14 +32,13 @@ const HomePage = () => {
             Transform your offline video collection with this reliable and
             efficient downloader.
           </p>
-        <div className="flex rounded-full bg-purple-400/10 text-[12px] font-bold text-gray-500 p-1 w-[500px] items-center justify-center gap-2">
-          <div className="rounded-full bg-black text-gray-500 p-1">
-            <MdElectricBolt className="bg-transparent text-yellow-500"/>
+          <div className="flex rounded-full bg-purple-400/10 text-[12px] font-bold text-gray-500 p-1 w-[500px] items-center justify-center gap-2">
+            <div className="rounded-full bg-black text-gray-500 p-1">
+              <MdElectricBolt className="bg-transparent text-yellow-500" />
+            </div>
+            WE DO NOT ALLOW/SUPPORT THE DOWNLOAD OF COPYRIGHTED MATERIAL!
           </div>
-          WE DO NOT ALLOW/SUPPORT THE DOWNLOAD OF COPYRIGHTED MATERIAL!
         </div>
-        </div>
-
 
         <div class="relative flex h-[80px] w-full min-w-[200px] max-w-[50rem] shadow-[rgba(106,_65,_210,_0.1)_0px_9px_30px]">
           <button
